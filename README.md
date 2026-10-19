@@ -10,3 +10,4 @@
 
 ## 3. 怎样运行项目 (How to run)
 目前这是一个纯文档仓库，暂时还没有可以运行的代码。后续如果添加了代码，我会在这里补充运行说明。
+Test commit: local and remote repository connected successfully.
